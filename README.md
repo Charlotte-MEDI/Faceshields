@@ -7,9 +7,9 @@ At this time these files are not meant to be mass produced in anyway. As of righ
 Prusa Face Shield
 https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/
 
-# Other Designs (May be easier to print?):
+# Other Designs to think about (May be easier to print?):
  https://www.scmp.com/news/hong-kong/health-environment/article/3052135/polytechnic-university-lab-3d-printing-face
- 
+ https://www.coxhealth.com/innovation/
 
 # Working Fusion Model:  
 -Live Link Prusa Bottom Reinforcement https://a360.co/2UbwLO5  
