@@ -9,6 +9,7 @@ https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shield
 
 # Other Designs to think about (May be easier to print?):
  https://www.scmp.com/news/hong-kong/health-environment/article/3052135/polytechnic-university-lab-3d-printing-face
+ 
  https://www.coxhealth.com/innovation/
 
 # Working Fusion Model:  
