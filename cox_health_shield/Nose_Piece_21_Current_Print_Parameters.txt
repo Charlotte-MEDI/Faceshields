@@ -1,0 +1,27 @@
+
+;   profileName,ABS-Taz5- 0.4mm 
+;   profileVersion,2020-03-19 17:03:10
+
+;   printMaterial,ABS
+
+;   extruderDiameter,0.4
+;   extruderAutoWidth,1
+;   extruderWidth,0.48
+;   extrusionMultiplier,0.95
+;   extruderUseRetract,1
+;   extruderRetractionDistance,1
+;   extruderExtraRestartDistance,0
+;   extruderRetractionZLift,0
+;   extruderRetractionSpeed,1602
+;   extruderUseCoasting,1
+;   extruderCoastingDistance,0.1
+;   extruderUseWipe,1
+;   extruderWipeDistance,0.1
+; 
+;   layerHeight,0.25
+;   topSolidLayers,5
+;   bottomSolidLayers,4
+;   perimeterOutlines,2
+;   printPerimetersInsideOut,1
+
+;   startPointOptio
