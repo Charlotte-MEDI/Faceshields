@@ -9,6 +9,8 @@ https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shield
 
 
 # Working Fusion Model:  
+-Live Link Prusa Bottom Reinforcement https://a360.co/2UbwLO5  
+-Believe this one should be a spot on replica, easy to alter the underlying sketches and file if needed  
 -Live Link Prusa RC2 V1 https://a360.co/3beMKk8  
 -More straight lines in this model, much easier to sketch. Haven't test any prints, but model seems to be correct.  
 -Live Link Prusa RC1 V2 https://a360.co/2QAGLOJ  
