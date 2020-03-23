@@ -17,7 +17,7 @@ https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shield
  https://www.coxhealth.com/innovation/
 
 # Working Fusion Models:  
--Live Link Prusa Bottom Reinforcement (for 1.5mm thick material)
+-Live Link Prusa Bottom Reinforcement (for 1.5mm thick material) https://a360.co/2QEyNnK  
 -Live Link Prusa Bottom Reinforcement (original, for .5mm thick material) https://a360.co/2UbwLO5  
 -Believe this one should be a spot on replica, easy to alter the underlying sketches and file if needed  
 -Live Link Prusa RC2  https://a360.co/3beMKk8  
