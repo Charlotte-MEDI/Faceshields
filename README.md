@@ -8,6 +8,7 @@ We are currently printing the Face Shield and can be found in the PrusaFaceShiel
 
 # Resources:
 Prusa Face Shield
+
 https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/
 
 # Other Designs to think about (May be easier to print?):
