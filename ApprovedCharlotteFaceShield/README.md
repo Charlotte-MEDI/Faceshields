@@ -1,33 +1,33 @@
-#Help us print face sheilds - The Guide
+# Help us print face shields - The Guide
 
-###What can I do?
+### What can I do?
 
-We'd love everyone to help!  If you have a 3d Printer, you can print this part:
+We'd love everyone to help!  If you have a 3d Printer, you can print this part:
 
-[Part to Print](strapsriff_rc2.stl)
+[Download the 3d Part to Print](https://github.com/Charlotte-MEDI/Faceshields/raw/master/ApprovedCharlotteFaceShield/strapsriff_rc2.stl)
 
 [Source File](https://www.prusaprinters.org/prints/26474-prusa-rc2-no-elastic-required-secure-with-rope-web)
 
-###Printer Settings
+### Printer Settings
 
-We want to ensure the printed part is both strong and flexible, our testing shows best results when the part is printed with **100% infill**.  
+We want to ensure the printed part is both strong and flexible, our testing shows best results when the part is printed with **100% infill**.  
 
-*Doesn't 100% infill take longer?*  Yes.  Faster, Better, Cheaper... When it comes to protecting our precious medical resources, the medical professionals, our first priority is the best protection.
+*Doesn't 100% infill take longer?*  Yes.  Faster, Better, Cheaper... When it comes to protecting our precious medical resources, the medical professionals, our first priority is the best protection.
 
-###How can I package the parts
+### How can I package the parts
 
-We want to ensure the printed parts are of the highest quality and does no harm.  
+We want to ensure the printed parts are of the highest quality and does no harm.  
 
-Clean all parts with alchol (70% or better)
+Clean all parts with alcohol (70% or better)
 Mark the part with the date, material type (PETG or PLA) and then 
 Don't touch the part with your bear hands
-	We recomend using alchol cleaned pliers to handle parts.
+	We recommend using alcohol cleaned pliers to handle parts.
 	You can use gloves, however, this can be costly.
 Place the part in the bag to dry.
 Seal the bag once the part is dry.
 
 
-###Drop Off Locations?
+### Drop Off Locations?
 
 Charlotte Latin FabLab
 
