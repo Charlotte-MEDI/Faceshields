@@ -31,6 +31,4 @@ Seal the bag once the part is dry.
 
 Charlotte Latin FabLab
 
-Discovery Place
-
 UNCC
