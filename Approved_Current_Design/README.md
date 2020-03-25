@@ -33,6 +33,7 @@ Charlotte Latin FabLab
 
 UNCC
 
+### Additional Notes
 These are the original designs from Prusa.  
 As of now, these is the most tested, reliable design.  
 If you are looking for something to print right away, these are the files for you.  
