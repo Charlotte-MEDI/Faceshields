@@ -7,7 +7,6 @@ We started with the Prusa RC2 design and modified it to be injection molding fri
 
 Our design has been validated by doctors and other Health Care Workers in Charlotte, NC using the following materials to manufacture the face shields:
 
-Injection molding material:
-FDA approved Polypropylene
-0.02″ thick PETG (Our feedback from HCWs recommended 0.02″ thick)
-
+Following materials are used in this design: </br>
+Injection molding: FDA approved Polypropylene </br>
+PETG sheet: 0.02″ thick PETG (Our feedback from HCWs recommended 0.02″ thick)
